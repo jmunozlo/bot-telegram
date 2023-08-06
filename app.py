@@ -10,7 +10,6 @@ app = Flask(__name__)
 # Reemplaza 'TOKEN' con el token de tu bot
 bot_token = '5886565362:AAGsgna7zxL6NnX1Q1YlpWZEoeowOgv8cro'
 
-
 # Crea una instancia del bot
 bot = Bot(token=bot_token)
 
